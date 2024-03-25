@@ -53,9 +53,9 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝑴𝑰𝑨 𝑴𝑫'
+global.botname = 'Silent_MD'
 global.premium = 'true'
-global.packname = '𝑳𝒖𝒄𝒊𝒁𝑹' 
+global.packname = 'silent' 
 global.author = '@LuciZR' 
 global.menuvid = 'https://i.imgur.com/eqkBKsZ.mp4'
 global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029Va9S1ZW17En4Yh6hz63R\n' 
